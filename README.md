@@ -2,9 +2,7 @@
 
 <h1 align="center">👋 Olá, eu sou Jhonatan Bernardino</h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Network%20%26%20Infrastructure%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-</p>
+
 
 <h3 align="center">
 🚀 Redes • Telecom • Infraestrutura • Automação • Cloud
