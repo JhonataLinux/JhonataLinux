@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f2027,100:2c5364&height=150" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header" />
 <h1 align="center">Jhonatan Bernardino</h1>
 
 <p align="center">
