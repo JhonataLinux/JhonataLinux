@@ -1,23 +1,22 @@
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header" />
+</p>
+
 <h1 align="center">Jhonatan Bernardino</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Network+%26+Infrastructure+Analyst;Linux+%7C+Automation+%7C+Monitoring;Transitioning+into+Offensive+Security..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Network+%26+Infrastructure+Analyst;Linux+%7C+Automation+%7C+Monitoring;Transitioning+into+Offensive+Security...;sudo+access+granted+%F0%9F%94%93" alt="Typing SVG" />
 </p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Network+%26+Infrastructure+Analyst;Linux+%7C+Automation+%7C+Monitoring;Transitioning+into+Offensive+Security...;sudo+access+granted+%F0%9F%94%93" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JhonataLinux&style=flat-square&color=00FF41" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=JhonataLinux&style=flat-square&color=00D9FF" alt="Profile views" />
 </p>
 
 ---
-
 ## 👨‍💻 Sobre Mim
 
 Sou profissional de Tecnologia da Informação com atuação em Telecomunicações, Redes e Infraestrutura, hoje trabalhando com monitoramento, administração e automação de ambientes corporativos e de provedores de internet (ISP).
