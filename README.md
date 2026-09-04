@@ -140,6 +140,3 @@ Focado em consolidar minha transição de **Network Analyst** para **Network & S
   <i>"Transformando infraestrutura em soluções escaláveis — e aprendendo a quebrá-las com responsabilidade."</i>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" />
-</p>
