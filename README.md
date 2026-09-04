@@ -135,7 +135,7 @@ Focado em consolidar minha transição de **Network Analyst** para **Network & S
 <a href="https://www.instagram.com/jhonatalinux/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="mailto:seuemail@exemplo.com">
+<a href="mailto:jonh.i7telecom@gmail.com">
 
 </a>
 </p>
