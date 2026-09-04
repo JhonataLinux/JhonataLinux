@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Jhonatan%20Bernardino&fontSize=40&fontColor=00FF41&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Jhonatan%20Bernardino&fontSize=40&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Network%20%7C%20Linux%20%7C%20Security&descAlignY=55&descSize=16" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
 <p align="center">
