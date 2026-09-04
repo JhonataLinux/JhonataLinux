@@ -2,11 +2,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header" />
 </p>
 
-<h1 align="center">Jhonatan Bernardino</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Network+%26+Infrastructure+Analyst;Linux+%7C+Automation+%7C+Monitoring;Transitioning+into+Offensive+Security...;sudo+access+granted+%F0%9F%94%93" alt="Typing SVG" />
-</p>
+# `Jhonatan Bernardino`
+
+### Network & Infrastructure Analyst
+
+`Linux` • `Networks` • `Automation` • `Monitoring` • `Security`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=root%40jhonatan%3A~%24+whoami;Network+%26+Infrastructure+Analyst;Building+%7C+Monitoring+%7C+Automating;Learning+Offensive+Security...;sudo+access+granted+%F0%9F%94%93" alt="Typing SVG" />
+
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
