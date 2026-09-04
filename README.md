@@ -88,12 +88,14 @@ Focado em consolidar minha transição de **Network Analyst** para **Network & S
 
 > 💡 Substitua os links abaixo pelos endereços reais dos seus repositórios.
 
+## 📂 Projetos em Destaque
+
 | Projeto | Descrição |
 |---|---|
-| 🔥 [gpon-olt-monitoring](https://github.com/JhonataLinux/gpon-olt-monitoring) | Dashboard de observabilidade para OLTs GPON Huawei (Zabbix + SNMP + Grafana) |
-| 🌐 [ftth-infra-lab](https://github.com/JhonataLinux/ftth-infra-lab) | Laboratório de infraestrutura ISP com BGP, OSPF, VLAN e CGNAT |
-| 🐍 [automation-scripts](https://github.com/JhonataLinux/automation-scripts) | Scripts de automação em Python para tarefas de rede e infraestrutura |
-| 🖥️ [virtualization-labs](https://github.com/JhonataLinux/virtualization-labs) | Ambientes virtualizados com VMware e Proxmox para testes de infraestrutura |
+| 🔥 [Monitoramento OLT Huawei MA5608T](https://github.com/JhonataLinux/Monitoramento-OLT-Huawei-MA5608T) | Dashboard de observabilidade para OLTs GPON (Zabbix + SNMP + Grafana) |
+| 🌐 [ISP Lab Completo](https://github.com/JhonataLinux/ISP-Lab-BGP-OSPF-CGNAT) | Laboratório de infraestrutura ISP com BGP, OSPF, CGNAT, VLAN e DMZ |
+| 📡 [Gestão Remota TR-069](https://github.com/JhonataLinux/genieacs-tr069-debian11) | Implantação do GenieACS para gerenciamento de CPEs via protocolo TR-069/CWMP |
+| 🖥️ [AXXE ERP](https://github.com/JhonataLinux/AXXE-ERP---Enterprise-Resource-Planning-System) | Sistema de gestão empresarial (ERP) desenvolvido do zero e entregue em produção |
 
 ---
 
